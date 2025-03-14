@@ -11,4 +11,11 @@ Add phone number to landing page
 Add before and after pictures
 Upload business logo
 ```
+**Variables:**
+```
+name - business name
+number - business number
+year - the current year
+email - business email
+```
 <br/><br/><br/>Phillip Roach
