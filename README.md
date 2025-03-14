@@ -10,7 +10,7 @@ Pages for the website include:<br/>
 Add phone number to landing page
 Add before and after pictures
 Upload business logo
-Update all ID's for variables
+**Update all ID's for variables**
 ```
 **Variables:**
 ```
