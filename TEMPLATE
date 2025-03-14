@@ -20,8 +20,14 @@
       </nav>
     </header>
 
-    CODE HERE
-
+    <!--CODE HERE-->
+<!--
+const obj = JSON.parse(txt);
+name = business name
+number = business number
+year = the current year
+email = business email
+-->
     <footer>
       <p>&copy; 2025 Sealcoating Experts. All rights reserved.</p>
     </footer>
