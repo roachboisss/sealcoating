@@ -305,4 +305,6 @@ fieldset {
 .services {
   padding: 60px 20px;
   margin-top: 50px;
+    display: inline-block;
+  width: 30%;
 }
