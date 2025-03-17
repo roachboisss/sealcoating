@@ -1,5 +1,5 @@
 const businessInfo = {
-  "name": "Business Name",                     //Business name
+  "name": "One man sealcoating",                     //Business name
   "number": "(123) 456-7890",                  //Business number
   "year": "2025",                              //Current year
   "businessemail": "businessemail@gmail.com",  //Business email
