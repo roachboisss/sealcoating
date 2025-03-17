@@ -1,19 +1,17 @@
 const businessInfo = {
-  //General info
-  "name": "Business name",                     //Business name
-  "number": "(123) 456-7890",                  //Business number
-  "year": "2025",                              //Current year
-  "businessemail": "businessemail@gmail.com",  //Business email
-  "about": "About the business goes here",     //About business for about page
-  "owner": "Owners name",                      //Business owners name (owns business nunber and emal)
-  "mission": "Mission statement",              //Business mission statement
-  //Services                                   //
-   "service1": "Service 1 name",               //Service 1
-   "service1desc": "About service 1 here",     //Service 1 description
-   "service2": "Service 2 name",               //Service 2
-   "service2desc": "About service 2 here",     //Service 2 description
-   "service3": "Service 3 name",               //Service 3
-   "service3desc": "About service 3 here"      //Service 3 description
+  "name": "Business name",
+  "number": "(123) 456-7890",
+  "year": "2025",
+  "businessemail": "businessemail@gmail.com",
+  "about": "About the business goes here",
+  "owner": "Owners name",
+  "mission": "Mission statement",
+  "service1": "Service 1 name",
+  "service1desc": "About service 1 here",
+  "service2": "Service 2 name",
+  "service2desc": "About service 2 here",
+  "service3": "Service 3 name",
+  "service3desc": "About service 3 here"
 };
 
 document.addEventListener('DOMContentLoaded', function() {
