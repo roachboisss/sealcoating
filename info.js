@@ -8,18 +8,14 @@ const businessInfo = {
   "mission": "Mission statement"               //Business mission statement
 };
 
-// Wait for the DOM to be fully loaded before trying to access elements
 document.addEventListener('DOMContentLoaded', function() {
-  // Update page title
   document.title = businessInfo.name;
   
-  // Update all elements with ID "name"
   const nameElements = document.querySelectorAll('#name');
   nameElements.forEach(element => {
     element.textContent = businessInfo.name;
   });
   
-  // Update other elements
   if(document.getElementById("number")) document.getElementById("number").textContent = businessInfo.number;
   if(document.getElementById("year")) document.getElementById("year").textContent = businessInfo.year;
   if(document.getElementById("businessemail")) document.getElementById("businessemail").textContent = businessInfo.businessemail;
