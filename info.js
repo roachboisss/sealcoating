@@ -6,14 +6,14 @@ const businessInfo = {
   "businessemail": "businessemail@gmail.com",  //Business email
   "about": "About the business goes here",     //About business for about page
   "owner": "Owners name",                      //Business owners name (owns business nunber and emal)
-  "mission": "Mission statement"               //Business mission statement
+  "mission": "Mission statement",               //Business mission statement
   //Services                                   //
-   "service1": "Service 1 name"                //Service 1
-   "service1desc": "About service 1 here"      //Service 1 description
-   "service2": "Service 2 name"                //Service 2
-   "service2desc": "About service 2 here"      //Service 2 description
-   "service3": "Service 3 name"                //Service 3
-   "service3desc": "About service 3 here"      //Service 3 description
+   "service1": "Service 1 name",               //Service 1
+   "service1desc": "About service 1 here",     //Service 1 description
+   "service2": "Service 2 name",               //Service 2
+   "service2desc": "About service 2 here",     //Service 2 description
+   "service3": "Service 3 name",               //Service 3
+   "service3desc": "About service 3 here",     //Service 3 description
 };
 
 document.addEventListener('DOMContentLoaded', function() {
