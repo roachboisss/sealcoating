@@ -30,11 +30,10 @@ document.addEventListener('DOMContentLoaded', function() {
   if(document.getElementById("about")) document.getElementById("about").textContent = businessInfo.about;
   if(document.getElementById("owner")) document.getElementById("owner").textContent = businessInfo.owner;
   if(document.getElementById("mission")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service1")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service1desc")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service2")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service2desc")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service3")) document.getElementById("mission").textContent = businessInfo.mission;
-  if(document.getElementById("service3desc")) document.getElementById("mission").textContent = businessInfo.mission;
-  
+  if(document.getElementById("service1")) document.getElementById("service1").textContent = businessInfo.service1;
+  if(document.getElementById("service1desc")) document.getElementById("service1desc").textContent = businessInfo.service1desc;
+  if(document.getElementById("service2")) document.getElementById("service2").textContent = businessInfo.service2;
+  if(document.getElementById("service2desc")) document.getElementById("service2desc").textContent = businessInfo.service2desc;
+  if(document.getElementById("service3")) document.getElementById("service3").textContent = businessInfo.service3;
+  if(document.getElementById("service3desc")) document.getElementById("service3desc").textContent = businessInfo.service3desc;
 });
