@@ -10,13 +10,15 @@ Pages for the website include:<br/>
 Add phone number to landing page
 Add before and after pictures
 Upload business logo
-**Update all ID's for variables**
 ```
 **Variables:**
 ```
 name - business name
 number - business number
-year - the current year
-email - business email
+year - current year
+businessemail - business email
+about - about the business for the ab out page
+owner - the owners name
+mission - the mission statement for the business
 ```
 <br/><br/><br/>Phillip Roach
