@@ -20,5 +20,11 @@ businessemail - business email
 about - about the business for the ab out page
 owner - the owners name
 mission - the mission statement for the business
+service1 - service 1
+service1desc - descriptiton of service 1
+service2 - service 2
+service2desc - descriptiton of service 2
+service3 - service 3
+service3desc - descriptiton of service 3
 ```
 <br/><br/><br/>Phillip Roach
