@@ -309,3 +309,34 @@ fieldset {
   width: 30%;
   text-align: center;
 }
+section.services {
+  width: 100%;
+  max-width: 1200px;
+  margin: 120px auto 50px auto; /* Increased top margin to account for fixed header */
+  text-align: center;
+  display: block; /* Changed from inline-block */
+  padding: 60px 20px;
+}
+.service-box {
+  display: inline-block;
+  width: 30%;
+  margin: 15px 1.5%;
+  vertical-align: top;
+  background: #f4f4f4;
+  padding: 20px;
+  border-radius: 10px;
+  box-sizing: border-box;
+}
+@media (max-width: 900px) {
+  .service-box {
+    width: 80%;
+    margin: 15px auto;
+    display: block;
+  }
+}
+.service-box img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
