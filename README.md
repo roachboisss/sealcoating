@@ -10,6 +10,7 @@ Pages for the website include:<br/>
 Add phone number to landing page
 Add before and after pictures
 Upload business logo
+Get rid of the space on contact.html and home.html
 ```
 **Variables:**
 ```
