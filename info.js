@@ -1,5 +1,5 @@
 const businessInfo = {
-  "name": "The business name",
+  "name": "The Business Name",
   "number": "(123) 456-7890",
   "year": "2025",
   "businessemail": "businessemail@gmail.com",
