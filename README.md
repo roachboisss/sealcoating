@@ -1,6 +1,7 @@
 # Sealcoating Website
 ### [Link to website](https://roachboisss.github.io/sealcoating)
 Pages for the website include:<br/>
+&ensp;&ensp;[**Template page for testing**](https://roachboisss.github.io/sealcoating/TEMPLATE.html)<br/>
 &ensp;&ensp;[**index**](https://roachboisss.github.io/sealcoating/index.html)<br/>
 &ensp;&ensp;[**about**](https://roachboisss.github.io/sealcoating/about.html)<br/>
 &ensp;&ensp;[**services**](https://roachboisss.github.io/sealcoating/services.html)<br/>
@@ -11,6 +12,7 @@ Add phone number to landing page
 Add before and after pictures
 Upload business logo
 Get rid of the space on contact.html and home.html
+Make footer stay on the bottom of the screen, not the page
 ```
 **Variables:**
 ```
